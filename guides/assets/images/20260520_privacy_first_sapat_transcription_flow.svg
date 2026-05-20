@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Privacy-first transcription workflow with Daytona and Sapat</title>
+  <desc id="desc">A five-step workflow showing recordings entering a Daytona workspace, being transcribed by Sapat, checked, redacted, and exported.</desc>
+  <rect width="1200" height="520" rx="32" fill="#f8fafc"/>
+  <rect x="46" y="64" width="1108" height="392" rx="28" fill="#e2e8f0"/>
+  <rect x="88" y="112" width="180" height="240" rx="24" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="298" y="112" width="180" height="240" rx="24" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="508" y="112" width="180" height="240" rx="24" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="718" y="112" width="180" height="240" rx="24" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="928" y="112" width="180" height="240" rx="24" fill="#ffffff" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M268 232h30" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+  <path d="m292 220 14 12-14 12" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M478 232h30" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+  <path d="m502 220 14 12-14 12" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M688 232h30" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+  <path d="m712 220 14 12-14 12" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M898 232h30" stroke="#334155" stroke-width="5" stroke-linecap="round"/>
+  <path d="m922 220 14 12-14 12" fill="none" stroke="#334155" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="178" cy="174" r="34" fill="#38bdf8"/>
+  <path d="M166 174h24m-12-12v24" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="388" cy="174" r="34" fill="#22c55e"/>
+  <path d="M372 177 384 190l24-32" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="598" cy="174" r="34" fill="#f59e0b"/>
+  <path d="M584 166h28v16h-28z" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M590 166v-8h16v8" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="808" cy="174" r="34" fill="#ef4444"/>
+  <path d="M792 162h32M792 174h32M792 186h20" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="1018" cy="174" r="34" fill="#6366f1"/>
+  <path d="M1002 174h32M1018 158v32" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <text x="178" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Recordings</text>
+  <text x="178" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Keep raw files</text>
+  <text x="178" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">inside workspace</text>
+  <text x="388" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Daytona</text>
+  <text x="388" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Repeatable tools</text>
+  <text x="388" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">and local secrets</text>
+  <text x="598" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Sapat</text>
+  <text x="598" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Convert, send,</text>
+  <text x="598" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">and save .txt</text>
+  <text x="808" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Redact</text>
+  <text x="808" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Mask common</text>
+  <text x="808" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">sensitive data</text>
+  <text x="1018" y="260" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Export</text>
+  <text x="1018" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">Share only</text>
+  <text x="1018" y="326" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#475569">reviewed text</text>
+  <text x="600" y="418" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Raw audio stays controlled; only checked and redacted transcripts move downstream.</text>
+</svg>

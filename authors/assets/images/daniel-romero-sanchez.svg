@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Romero Sanchez avatar</title>
+  <desc id="desc">A simple geometric avatar with the initials DRS.</desc>
+  <rect width="512" height="512" rx="96" fill="#0f172a"/>
+  <circle cx="372" cy="132" r="58" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="144" cy="380" r="86" fill="#22c55e" opacity="0.85"/>
+  <path d="M108 166c0-35 28-63 63-63h170c35 0 63 28 63 63v180c0 35-28 63-63 63H171c-35 0-63-28-63-63V166Z" fill="#f8fafc"/>
+  <text x="256" y="281" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700" fill="#0f172a">DRS</text>
+</svg>
